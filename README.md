@@ -1,4 +1,5 @@
-## RubyGarage Homework #2 -- Library
+## RubyGarage Homework #2 -- Library (pull request guide is followed)
+//first repo version: https://github.com/truealisa/RG_HW_Library (no code changes)
 
 _**Book:**_ title, author
 
