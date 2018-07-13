@@ -1,0 +1,437 @@
+--- !ruby/object:Library
+readers:
+- !ruby/object:Reader
+  name: Gardner Langworth DVM
+  email: devonte_hirthe@nienow.info
+  city: Lake Dawsonland
+  street: Feest Station
+  house: '8223'
+- !ruby/object:Reader
+  name: Karina Metz
+  email: stevie.ratke@handconnelly.io
+  city: Kraigport
+  street: Darien Parkways
+  house: '425'
+- !ruby/object:Reader
+  name: Madison Kuphal
+  email: urban@stark.name
+  city: South Roscoe
+  street: Ernesto Forest
+  house: '701'
+- !ruby/object:Reader
+  name: Myrna Stamm
+  email: kianna_sauer@abbott.co
+  city: Quigleyshire
+  street: Luettgen Estate
+  house: '2446'
+- !ruby/object:Reader
+  name: Miss Skye Goldner
+  email: jamir.purdy@keeling.co
+  city: West Madalyntown
+  street: Jeramie Circles
+  house: '753'
+- !ruby/object:Reader
+  name: Harmony Block
+  email: gudrun.dicki@wildermanosinski.org
+  city: Lake Gillianview
+  street: Bahringer Lodge
+  house: '618'
+- !ruby/object:Reader
+  name: Issac Metz
+  email: chasity_trantow@schroederlittel.net
+  city: Dibbertmouth
+  street: Shawna Circles
+  house: '2798'
+- !ruby/object:Reader
+  name: Bernardo Mosciski
+  email: julio.medhurst@aufderhar.net
+  city: Zelmaville
+  street: Schowalter Flats
+  house: '50274'
+- !ruby/object:Reader
+  name: Jamey Denesik Sr.
+  email: dewitt.wintheiser@hills.net
+  city: East Isom
+  street: Sydney Valleys
+  house: '445'
+- !ruby/object:Reader
+  name: Emmanuel Boyle
+  email: river@padberg.biz
+  city: Walshport
+  street: Weissnat Island
+  house: '8173'
+- !ruby/object:Reader
+  name: Jimmie Mertz
+  email: darrion@collier.org
+  city: North Elnachester
+  street: Ephraim Track
+  house: '88288'
+- !ruby/object:Reader
+  name: Cindy Padberg
+  email: kelvin@hirthelemke.info
+  city: East Waltonville
+  street: Bruen Light
+  house: '1410'
+- !ruby/object:Reader
+  name: Keeley Beahan
+  email: francisca.kohler@hilllbatz.info
+  city: West Saigemouth
+  street: Strosin Hills
+  house: '3408'
+- !ruby/object:Reader
+  name: Jennie Glover
+  email: brannon@schuppe.io
+  city: South Jaylinbury
+  street: Darian Trail
+  house: '53254'
+- !ruby/object:Reader
+  name: Kory Hane
+  email: rosetta.schroeder@koepp.biz
+  city: New Abdullah
+  street: Crona Common
+  house: '10550'
+orders:
+- !ruby/object:Order
+  book: The House of Mirth
+  reader: Jimmie Mertz
+  date: 2018-04-02
+- !ruby/object:Order
+  book: Bury My Heart at Wounded Knee
+  reader: Kory Hane
+  date: 2017-05-22
+- !ruby/object:Order
+  book: This Lime Tree Bower
+  reader: Madison Kuphal
+  date: 2018-03-02
+- !ruby/object:Order
+  book: The House of Mirth
+  reader: Jamey Denesik Sr.
+  date: 2018-03-16
+- !ruby/object:Order
+  book: Françoise Sagan
+  reader: Bernardo Mosciski
+  date: 2017-08-26
+- !ruby/object:Order
+  book: Behold the Man
+  reader: Jimmie Mertz
+  date: 2017-11-17
+- !ruby/object:Order
+  book: Bury My Heart at Wounded Knee
+  reader: Keeley Beahan
+  date: 2017-10-22
+- !ruby/object:Order
+  book: Françoise Sagan
+  reader: Issac Metz
+  date: 2017-08-18
+- !ruby/object:Order
+  book: The Wives of Bath
+  reader: Harmony Block
+  date: 2017-09-27
+- !ruby/object:Order
+  book: The Man Within
+  reader: Jennie Glover
+  date: 2018-02-10
+- !ruby/object:Order
+  book: Frequent Hearses
+  reader: Jimmie Mertz
+  date: 2018-03-04
+- !ruby/object:Order
+  book: Paths of Glory
+  reader: Miss Skye Goldner
+  date: 2017-06-23
+- !ruby/object:Order
+  book: Paths of Glory
+  reader: Cindy Padberg
+  date: 2017-12-20
+- !ruby/object:Order
+  book: The Wives of Bath
+  reader: Emmanuel Boyle
+  date: 2017-10-26
+- !ruby/object:Order
+  book: Rosemary Sutcliff
+  reader: Harmony Block
+  date: 2017-10-11
+- !ruby/object:Order
+  book: This Lime Tree Bower
+  reader: Kory Hane
+  date: 2018-03-29
+- !ruby/object:Order
+  book: The House of Mirth
+  reader: Cindy Padberg
+  date: 2017-11-10
+- !ruby/object:Order
+  book: The Wives of Bath
+  reader: Myrna Stamm
+  date: 2017-05-12
+- !ruby/object:Order
+  book: The Lathe of Heaven
+  reader: Keeley Beahan
+  date: 2018-05-03
+- !ruby/object:Order
+  book: For Whom the Bell Tolls
+  reader: Bernardo Mosciski
+  date: 2018-03-16
+- !ruby/object:Order
+  book: Bury My Heart at Wounded Knee
+  reader: Issac Metz
+  date: 2018-01-20
+- !ruby/object:Order
+  book: Of Human Bondage
+  reader: Jamey Denesik Sr.
+  date: 2017-08-19
+- !ruby/object:Order
+  book: The Wind's Twelve Quarters
+  reader: Kory Hane
+  date: 2017-11-07
+- !ruby/object:Order
+  book: Endless Night
+  reader: Jamey Denesik Sr.
+  date: 2017-06-05
+- !ruby/object:Order
+  book: Dance Dance Dance
+  reader: Gardner Langworth DVM
+  date: 2017-06-09
+- !ruby/object:Order
+  book: Frequent Hearses
+  reader: Karina Metz
+  date: 2017-12-20
+- !ruby/object:Order
+  book: To Say Nothing of the Dog
+  reader: Karina Metz
+  date: 2018-04-15
+- !ruby/object:Order
+  book: Françoise Sagan
+  reader: Jimmie Mertz
+  date: 2017-11-28
+- !ruby/object:Order
+  book: Endless Night
+  reader: Jennie Glover
+  date: 2018-02-07
+- !ruby/object:Order
+  book: Surprised by Joy
+  reader: Harmony Block
+  date: 2017-06-25
+- !ruby/object:Order
+  book: The Man Within
+  reader: Emmanuel Boyle
+  date: 2017-10-12
+- !ruby/object:Order
+  book: To Say Nothing of the Dog
+  reader: Jennie Glover
+  date: 2017-05-13
+- !ruby/object:Order
+  book: Bury My Heart at Wounded Knee
+  reader: Issac Metz
+  date: 2017-08-04
+- !ruby/object:Order
+  book: The Wind's Twelve Quarters
+  reader: Jennie Glover
+  date: 2017-06-18
+- !ruby/object:Order
+  book: Endless Night
+  reader: Kory Hane
+  date: 2017-07-14
+- !ruby/object:Order
+  book: Behold the Man
+  reader: Jimmie Mertz
+  date: 2017-12-09
+- !ruby/object:Order
+  book: Rosemary Sutcliff
+  reader: Kory Hane
+  date: 2017-06-01
+- !ruby/object:Order
+  book: Rosemary Sutcliff
+  reader: Keeley Beahan
+  date: 2017-08-26
+- !ruby/object:Order
+  book: Paths of Glory
+  reader: Karina Metz
+  date: 2017-06-02
+- !ruby/object:Order
+  book: A Swiftly Tilting Planet
+  reader: Madison Kuphal
+  date: 2017-09-16
+authors:
+- !ruby/object:Author
+  name: Brianne Reynolds
+  biography: Qui numquam et consequatur consequuntur et. Iusto dolores vel repellendus.
+    Tempore aspernatur veniam minima maiores in dolorem nobis. Non facere molestias
+    molestiae et ea. Eveniet suscipit qui itaque excepturi dolorem.
+- !ruby/object:Author
+  name: Alfred Herzog
+  biography: Ut accusamus molestiae. Qui delectus qui eaque eos assumenda. Pariatur
+    unde ipsam non. Modi exercitationem pariatur explicabo aliquid fugit.
+- !ruby/object:Author
+  name: Buster Bashirian
+  biography: Est dolores tempore non aliquid et. Nihil distinctio amet qui illo magnam
+    quo. Animi harum dolorem aut maxime vitae repudiandae ea.
+- !ruby/object:Author
+  name: Marlin Nienow DVM
+  biography: Quis illum sunt perspiciatis nihil. Amet asperiores quo architecto voluptas
+    veritatis. Fugit enim ratione reprehenderit aperiam.
+- !ruby/object:Author
+  name: Mrs. Sedrick Prohaska
+  biography: Fugit voluptatem rerum perspiciatis est magnam. Sit magnam ex est ea
+    sint quia vero. Est minima quaerat animi commodi fuga autem.
+- !ruby/object:Author
+  name: Mr. Tiffany Bernhard
+  biography: Alias commodi qui neque. Id et iusto veniam aut quaerat. Reprehenderit
+    ducimus corporis dolor sunt atque. Nisi nostrum voluptatibus.
+- !ruby/object:Author
+  name: Mrs. Lyla Gutmann
+  biography: Amet quo odit omnis. Ea dolorem non. Eos quia consequatur qui nulla reprehenderit
+    commodi et. Aut temporibus excepturi enim unde.
+- !ruby/object:Author
+  name: Dr. Dillan Wilderman
+  biography: Officia cumque velit quis sed eius. Deleniti quis facilis totam voluptates
+    rerum. Sint temporibus tempora cupiditate expedita.
+- !ruby/object:Author
+  name: Ryleigh Bauch
+  biography: Dignissimos tempore distinctio. Et laudantium aspernatur. Minima eos
+    quis dolores dolor et.
+- !ruby/object:Author
+  name: Fatima Gutmann
+  biography: Ut ut error assumenda sunt reiciendis ducimus. Et et quas. Molestiae
+    velit quas aut.
+- !ruby/object:Author
+  name: Destin Nitzsche
+  biography: Quam vel itaque rerum. Magnam omnis dolores eveniet aut inventore et.
+    Quisquam qui voluptatem minima numquam dolor.
+- !ruby/object:Author
+  name: Hayden Hahn
+  biography: Dicta sit iure. Non sint tempora quia expedita maiores. Harum error ullam
+    pariatur dicta. Est non consequatur labore. Libero asperiores reiciendis vitae
+    repudiandae dolor.
+- !ruby/object:Author
+  name: Vidal Welch
+  biography: Quia unde ut rerum incidunt. Quibusdam vel ipsum doloremque qui aut distinctio.
+    A unde autem temporibus.
+- !ruby/object:Author
+  name: Daren Balistreri
+  biography: Excepturi dicta omnis velit dolor eos iure. Expedita non praesentium
+    iure ut et nihil. Tempore vel ad explicabo ipsum rerum est dolore.
+- !ruby/object:Author
+  name: Daryl McKenzie Sr.
+  biography: Delectus dolor ullam ipsam. Ducimus iste eveniet non laborum ut. Quisquam
+    facere nostrum tempora. Deserunt iusto hic porro est. Nobis inventore cupiditate
+    a doloremque consequuntur aspernatur.
+- !ruby/object:Author
+  name: Mrs. Kaylie Dibbert
+  biography: Dolor optio sequi aliquid possimus nihil est. Eos ipsum nam unde maxime.
+    Et natus perferendis sed provident.
+- !ruby/object:Author
+  name: Marquis Gulgowski IV
+  biography: Aut laboriosam sed fuga sint delectus doloribus ipsum. Aut dolor praesentium
+    consequatur veritatis sit qui modi. Amet commodi quam ut tenetur id velit perspiciatis.
+    Rerum voluptates suscipit odit rerum.
+- !ruby/object:Author
+  name: Mr. Graciela Windler
+  biography: Non consequatur ullam fugiat deleniti. Quia incidunt laborum. Eligendi
+    provident tempora quas.
+- !ruby/object:Author
+  name: Macie Haley
+  biography: Aliquid perferendis ea soluta consequatur et perspiciatis. Quibusdam
+    et rerum ut nemo non deleniti. Voluptas quibusdam porro eveniet delectus.
+- !ruby/object:Author
+  name: Kareem Prosacco
+  biography: Non quo molestiae laborum distinctio. Occaecati tempore quasi voluptatibus
+    dicta illum eveniet autem. Quos minus rerum voluptas labore nihil.
+- !ruby/object:Author
+  name: Candelario Wiza
+  biography: Sapiente quia quod. Ducimus itaque qui quae. Dolor quia fuga maxime nihil
+    tempora qui. Autem sunt deleniti voluptas debitis. Magnam labore officiis voluptatibus
+    corporis.
+- !ruby/object:Author
+  name: Rebecca Bashirian
+  biography: Dolor provident eligendi. Et voluptatem omnis sapiente at sequi. Dolorem
+    facilis quia vitae. Praesentium excepturi quae ea voluptatibus voluptatum quis
+    fugiat. Temporibus reiciendis qui.
+- !ruby/object:Author
+  name: Pearline Schmitt
+  biography: Rem fugiat voluptas voluptas. Culpa est eum qui laboriosam libero qui.
+    Adipisci quis aut itaque sed. Ipsam aut excepturi. Atque occaecati fugit ut.
+- !ruby/object:Author
+  name: Heidi O'Kon DVM
+  biography: Perspiciatis non qui quia. Eius perspiciatis qui harum vitae. Ut qui
+    nemo beatae doloribus voluptates suscipit ipsum.
+- !ruby/object:Author
+  name: Frederick Oberbrunner
+  biography: Aspernatur quidem et provident earum. Rerum nostrum blanditiis et dolores
+    pariatur sit. Velit quia hic. Velit voluptatibus ea quos cum. Quod ad minus voluptatem
+    maiores dolor velit.
+books:
+- !ruby/object:Book
+  title: To Say Nothing of the Dog
+  author: Brianne Reynolds
+- !ruby/object:Book
+  title: Clouds of Witness
+  author: Alfred Herzog
+- !ruby/object:Book
+  title: The Wind's Twelve Quarters
+  author: Buster Bashirian
+- !ruby/object:Book
+  title: The Man Within
+  author: Marlin Nienow DVM
+- !ruby/object:Book
+  title: Rosemary Sutcliff
+  author: Mrs. Sedrick Prohaska
+- !ruby/object:Book
+  title: Tender Is the Night
+  author: Mr. Tiffany Bernhard
+- !ruby/object:Book
+  title: The Wives of Bath
+  author: Mrs. Lyla Gutmann
+- !ruby/object:Book
+  title: Frequent Hearses
+  author: Dr. Dillan Wilderman
+- !ruby/object:Book
+  title: Paths of Glory
+  author: Ryleigh Bauch
+- !ruby/object:Book
+  title: Dance Dance Dance
+  author: Fatima Gutmann
+- !ruby/object:Book
+  title: Behold the Man
+  author: Destin Nitzsche
+- !ruby/object:Book
+  title: Now Sleeps the Crimson Petal
+  author: Hayden Hahn
+- !ruby/object:Book
+  title: The House of Mirth
+  author: Vidal Welch
+- !ruby/object:Book
+  title: For Whom the Bell Tolls
+  author: Daren Balistreri
+- !ruby/object:Book
+  title: Surprised by Joy
+  author: Daryl McKenzie Sr.
+- !ruby/object:Book
+  title: That Hideous Strength
+  author: Mrs. Kaylie Dibbert
+- !ruby/object:Book
+  title: Infinite Jest
+  author: Marquis Gulgowski IV
+- !ruby/object:Book
+  title: Of Human Bondage
+  author: Mr. Graciela Windler
+- !ruby/object:Book
+  title: A Swiftly Tilting Planet
+  author: Macie Haley
+- !ruby/object:Book
+  title: The Lathe of Heaven
+  author: Kareem Prosacco
+- !ruby/object:Book
+  title: Alone on a Wide, Wide Sea
+  author: Candelario Wiza
+- !ruby/object:Book
+  title: Bury My Heart at Wounded Knee
+  author: Rebecca Bashirian
+- !ruby/object:Book
+  title: This Lime Tree Bower
+  author: Pearline Schmitt
+- !ruby/object:Book
+  title: Endless Night
+  author: Heidi O'Kon DVM
+- !ruby/object:Book
+  title: Françoise Sagan
+  author: Frederick Oberbrunner
